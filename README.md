@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Associate Professor at Politecnico di Milano
+
+Current funded projects:
+ - Horizon 2020 FETHPC RECIPE: enhancing reliability and performance predictability of deeply heterogeneous High Performance Computing systems
+
