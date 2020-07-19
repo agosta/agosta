@@ -1,4 +1,4 @@
-### Hi there 👋
+### Giovanni Agosta
 
 <!--
 **agosta/agosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm Associate Professor at Politecnico di Milano
 
-Current funded projects:
+I'm currently working on the following funded projects:
  - Horizon 2020 FETHPC RECIPE: enhancing reliability and performance predictability of deeply heterogeneous High Performance Computing systems
 
