@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 I'm Associate Professor at Politecnico di Milano
 
 I'm currently working on the following funded projects:
- - Horizon 2020 FETHPC RECIPE: enhancing reliability and performance predictability of deeply heterogeneous High Performance Computing systems
+ - The European Pilot: EuroHPC project piloting RISC-V technologies for high performance computing
+ - EUPEX: EuroHPC pilot project on open HPC architectures
+ - TEXTAROSSA: EuroHPC research project on HPC accelerators
+ - ISOLDE: KDT project on RISC-V for embedded systems
 
