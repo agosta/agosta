@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I'm Associate Professor at Politecnico di Milano, where I teach Code Optimization and Transformation, Formal Languages and Compilers, and Foundations of Computer Science.
 
 I'm currently working on the following funded research projects:
+ - DARE SGA1: EuroHPC project advancing European sovereignty in HPC with RISC-V
  - The European Pilot: EuroHPC project piloting RISC-V technologies for high performance computing
  - EUPEX: EuroHPC pilot project on open HPC architectures
  - ISOLDE: KDT project on RISC-V for embedded systems
